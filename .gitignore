@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+downloads/
+Fb_cookies.txt
+X_cookies.txt
+*.part
+*.ytdl
